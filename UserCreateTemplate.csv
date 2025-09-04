@@ -1,0 +1,13 @@
+version:v1.0,,,,,,,,,,,,,,,,
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
+user1,"user1@nileshlipane18gmail.onmicrosoft.com
+", myPassword12, No,,,,,,,,,,,,,
+user-2,user-2@nileshlipane18gmail.onmicrosoft.com, myPassword123,yes,,,,,,,,,,,,,
+user-3,"user-3@nileshlipane18gmail.onmicrosoft.com
+", myPassword1234,yes,,,,,,,,,,,,,
+user-4,"user-4@nileshlipane18gmail.onmicrosoft.com
+", myPassword1235,yes,,,,,,,,,,,,,
+user-5,"user-5@nileshlipane18gmail.onmicrosoft.com
+", myPassword1236,yes,,,,,,,,,,,,,
+user-6,"user-6@nileshlipane18gmail.onmicrosoft.com
+", myPassword1237,yes,,,,,,,,,,,,,
